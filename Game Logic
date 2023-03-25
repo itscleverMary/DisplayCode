@@ -1,9 +1,3 @@
---[[
-	`I want this script to keep track of whenever a player holds e on a door. Make 
-sure they don't get more than 3 tries. Lives reset after each game. If they lose 
-the third try, they teleport back to the lobby.
-]]
-
 --Services
 
 local ProximityPromptService = game:GetService("ProximityPromptService")
